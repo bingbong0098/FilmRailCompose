@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">مدیا</string>
+    <string name="more">بیشتر</string>
+    <string name="label">نهایت تماشا</string>
+    <string name="home">خانه</string>
+    <string name="movie">فیلم</string>
+    <string name="favorite">علاقه‌مندی</string>
+    <string name="series">سریال</string>
+    <string name="tv">تلویزیون</string>
+    <string name="blog">وبلاگ</string>
+    <string name="genre">ژانر</string>
+    <string name="country">کشور</string>
+    <string name="name">نام</string>
+    <string name="profile">اطلاعات کاربری</string>
+    <string name="subscription">اشتراک</string>
+    <string name="devices">مدیریت دستگاه ها</string>
+    <string name="downloads">دانلود ها</string>
+    <string name="settings">تنطیمات</string>
+    <string name="login_register">ثبت نام / ورود</string>
+    <string name="exit">خروج از حساب</string>
+    <string name="dark_mode">حالت تاریک</string>
+    <string name="popular_stars">ستارگان محبوب</string>
+    <string name="featured_tv_channel">کانال های ویژه</string>
+    <string name="continue_watching">ادامه تماشا</string>
+    <string name="latest_movies">آخرین فیلم ها</string>
+    <string name="latest_tv_series">آخرین سریال ها</string>
+    <string name="iranian">ایرانی</string>
+    <string name="register">ثبت</string>
+    <string name="email">ایمیل</string>
+    <string name="pass">رمز عبور</string>
+    <string name="verify_code">کد تایید</string>
+    <string name="enter_email">ایمیل خود را وارد کنید</string>
+    <string name="forget_pass">رمز عبور را فراموش کرده اید ؟</string>
+    <string name="login_register_mobile">ورود / ثبت نام با موبایل</string>
+    <string name="login_register_email">ورود / ثبت نام با ایمیل</string>
+    <string name="enter_email_phone">ایمیل یا شماره تماس خود را وارد کنید</string>
+</resources>

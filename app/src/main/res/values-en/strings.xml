@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Media</string>
+    <string name="more">more</string>
+    <string name="label">The ultimate watch</string>
+    <string name="home">Home</string>
+    <string name="movie">Movie</string>
+    <string name="series">Series</string>
+    <string name="tv">TV</string>
+    <string name="favorite">Favorite</string>
+    <string name="blog">Blog</string>
+    <string name="genre">Genre</string>
+    <string name="country">Country</string>
+    <string name="name">Name</string>
+    <string name="profile">Profile</string>
+    <string name="subscription">Subscription</string>
+    <string name="devices">Devices</string>
+    <string name="downloads">Downloads</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="login_register">login / register</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="popular_stars">Popular Stars</string>
+    <string name="featured_tv_channel">Featured Tv Channel</string>
+    <string name="continue_watching">Continue Watching</string>
+    <string name="latest_movies">Latest Movies</string>
+    <string name="latest_tv_series">Latest Tv Series</string>
+    <string name="iranian">ایرانی</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="forget_pass">Forgot your password?</string>
+    <string name="login_register_mobile">Login / Register With Mobile</string>
+    <string name="login_register_email">Login / Register With Email</string>
+    <string name="enter_email_phone">Enter your email or phone number</string>
+</resources>
