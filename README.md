@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 # FilmRailCompose
+
 FilmRail is an advanced film, series, and TV streaming application built using modern Android development tools. This app is designed to deliver a seamless user experience with features such as video playback, favorites, search, and detailed information about content.
 =======
 # MediaCenter
@@ -88,4 +89,3 @@ For any inquiries or support, feel free to contact the project owner:
 - **Email**: bingbong0098@gmail.com
 - **Telegram**: [gohari_dev](https://t.me/gohari_dev)
 - **GitHub**: [bingbong0098](https://github.com/bingbong0098)
->>>>>>> 51183c7 (Initial commit)
